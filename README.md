@@ -80,3 +80,7 @@ The following SQL queries are included to perform various operations:
 2. Use the provided SQL queries to interact with the tables and retrieve relevant data.
 
 Feel free to customize the tables or queries based on your needs!
+
+- Name: Thirumalai K
+- Email: thirumalai.kb2@gmail.com
+- GitHub: [thiru-00](https://github.com/thiru-00)
