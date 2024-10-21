@@ -1,5 +1,7 @@
 # Customer Order Management System
-
+<div style="text-align: center;">
+    <img src="https://d38cf3wt06n6q6.cloudfront.net/tyasuitefront/webgpcs/images/sales-order-management-software.png" alt="Customer Order Management System">
+</div>
 This project demonstrates a SQL-based system to manage customer information, orders, and shipping statuses. It provides various SQL queries to efficiently retrieve, update, and analyze data from three main tables: `Customers`, `Orders`, and `Shippings`.
 
 ## Database Structure
